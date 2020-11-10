@@ -9,7 +9,7 @@ if(@eregi("XXXCTF",@$_GET[id])) {
 if(@$_GET[id] == "XXXCTF")
 {
     echo "回答正确!";
-    echo "flag{卢本伟欸就那个牛逼}";
+    echo "flag{lbwnb}";
 }
 //?id=%2558%2558XCTF
 
