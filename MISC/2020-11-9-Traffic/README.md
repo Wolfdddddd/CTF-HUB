@@ -1,0 +1,6 @@
+- 出题人: r0fus0d
+- 难度: 简单
+- 考点: 流量分析
+- 解法: wireshark 打开, 第 99 个包就是 flag
+- flag: flag{H9llo_Traffic}
+- 注意点: 无

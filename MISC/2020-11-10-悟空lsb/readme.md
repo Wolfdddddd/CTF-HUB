@@ -1,0 +1,6 @@
+- 出题人: tonyscy
+- 难度: 中等
+- 考点: 压缩包爆破, base58 解密, lsb 加解密
+- 解法: 暴力破解可以解出 4 位压缩包密码，提示给的是 lsb，使用 txt 文档中给出的 key，base58 解密，使用 github 上的一个 lsb 加解密工具即可解出隐藏图片。https://github.com/livz/cloacked-pixel
+- flag: flag{anheibiqibao}
+- 注意点: 无

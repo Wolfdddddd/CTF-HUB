@@ -1,0 +1,6 @@
+- 出题人: r0fus0d
+- 难度: 简单
+- 考点: 无
+- 解法: 打开就送 flag
+- flag: flag{Hello_World!}
+- 注意点: 无

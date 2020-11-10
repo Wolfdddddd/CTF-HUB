@@ -1,0 +1,6 @@
+- 出题人: xidaner
+- 难度: 简单
+- 考点: username 参数存在注入，sqlmap 跑即可。
+- 解法: sqlmap 直接跑注入即可。
+- flag: flag{XXX!}
+- 注意点: 无

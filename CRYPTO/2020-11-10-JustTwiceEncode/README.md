@@ -1,0 +1,6 @@
+- 出题人: RyuZUSUNC
+- 难度: 简单
+- 考点: ASCII,HEX
+- 解法: 对字符串做 HEX 解密后再进行 ASCII 转换，得到一串反着的 flag，将所有字符重新反向排列得到正确的 flag。
+- flag: flag{_a57hsr31q_qd230}
+- 注意点: 无

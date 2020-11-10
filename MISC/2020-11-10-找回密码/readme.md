@@ -1,0 +1,6 @@
+- 出题人: Alienware-OWO
+- 难度: 简单
+- 考点: 流量分析,http协议分析
+- 解法: 通过wireshark的相关语句进行筛选其中返回的302包,语句:http.response.code
+- flag: flag{TJTSG@CKZX$0157}
+- 注意点: 无
